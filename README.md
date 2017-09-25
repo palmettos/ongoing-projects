@@ -5,7 +5,7 @@ d2ext - A desktop application that communicates with DiabloInterface through a w
 
 neatstuff - Some tests I was doing with evolving recurrent neural networks to learn technical indicator patterns in cryptocurrency price movements.
 
-pybitbot - A bot that farms bits on Twitch. It separates the state space of a Twitch page into graph nodes and represents the actions required to switch between states as graph edges. The bit farming process is automated by constructing paths through this state space using Djikstra's algorithm.
+pybitbot - A bot that farms bits on Twitch. It separates the state space of a Twitch page into graph nodes and represents the actions required to switch between states as graph edges. The bit farming process is automated by constructing paths through this state space using Dijkstra's algorithm.
 
 pyramidbot - An IRC bot that interrupts "emote pyramids" in Twitch chat.
 
